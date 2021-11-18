@@ -30,7 +30,7 @@
                   - nexus
         containers:
         - name: javapp
-          image: 3.89.70.197:32001/javapp:2.50.5
+          image: 3.89.70.197:32001/javapp:2.50.6
           imagePullPolicy: Always
           ports:
           - containerPort: 8080
